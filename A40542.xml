@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and exact relation of two old men aged above a thousand years, coming invisibly into the great city of Tholouze in France, from Damascus in Galilea going in a most miraculous habit, preaching up and down the city, and exhorting them to repentance and pennance, and telling them that their city shall be destroy'd by fire if they do not repent ... : also ... with their infallible fortelling the day of doom to be in the year of our Lord, 1690 : in a letter to a friend in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40542</idno>
+            <idno type="STC">Wing F2280</idno>
+            <idno type="STC">ESTC R16347</idno>
+            <idno type="EEBO-CITATION">11854506</idno>
+            <idno type="OCLC">ocm 11854506</idno>
+            <idno type="VID">49950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49950)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and exact relation of two old men aged above a thousand years, coming invisibly into the great city of Tholouze in France, from Damascus in Galilea going in a most miraculous habit, preaching up and down the city, and exhorting them to repentance and pennance, and telling them that their city shall be destroy'd by fire if they do not repent ... : also ... with their infallible fortelling the day of doom to be in the year of our Lord, 1690 : in a letter to a friend in London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49950:1" rendition="simple:additions"/>
+            <p>A Full and Exact RELATION Of Two Old MEN <hi>Aged above a Thouſand Years,</hi> Coming Inviſibly into the great City of THOLOUZE in FRANCE, FROM <hi>DAMASC<g ref="char:V">Ʋ</g>S</hi> in <hi>GALILEA;</hi> Going in a moſt Miraculous Habit, Preaching up and down the City, and exhorting them to Re<g ref="char:EOLhyphen"/>pentance and Pennance, and telling them that their City ſhall be Deſtroy'd by Fire if they do not Repent.</p>
+            <p>How ſeveral <hi>Jeſuits</hi> Diſputed with them in Pri<g ref="char:EOLhyphen"/>ſon, in the <hi>Latin, Greek, Hebrew</hi> and <hi>Chaldean Tongues.</hi>
+            </p>
+            <p>ALSO, How their Irons dropt off from their Legs in the Streets when they were Chained.</p>
+            <p>With their Infallible fortelling the <hi>Day of Doom</hi> to be in the Year of our Lord, 1690.</p>
+            <p>
+               <hi>In a LETTER to a Friend in</hi> LONDON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. Thompſon</hi> MDCLXXX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:49950:2"/>
+            <head>A Full and exact Relation of two old Apoſtles, aged above 1000 Years, coming inviſibly into the great City of THOLOUZE, &amp;c.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Promis'd you when I left <hi>LONDON</hi> to give you a particular account of what remarkable Paſſa<g ref="char:EOLhyphen"/>ges which might happen in theſe parts; at preſent I can meet with nothing worth your acceptance, but this enſuing Story concerning theſe two old Men, which cauſes here great admiration; The <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tory as it is repreſented to us here, I pray take as follows, <hi>(viz.)</hi>
+            </p>
+            <p>A Few days ſince arrived in this City Two very Antient M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n who call themſelves Apoſtles, and they ſay they have the Spi<g ref="char:EOLhyphen"/>rit of Truth; No Perſon at any time ever ſaw them enter into this City: they go in ſuch an extraordinary ſtrange Habit as never was ſeen be<g ref="char:EOLhyphen"/>fore in any Country in the World They walk about the Streets Preaching, and exhorting the People to Repent, and do Penance, and to quit their evil Lives, Becauſe they ſay that God is angry againſt the <hi>Romans;</hi> They ſay that this City is as another <hi>Sodom,</hi> and that the Iniquity
+<pb n="3" facs="tcp:49950:3"/> of this People is mounted up to Heaven, and that within Three Months, (if they Repent not, and amend their Lives) this City ſhall be deſtroy'd by Fire as <hi>Sodom</hi> was. They have continued ſtill in this City Preaching from day to day; they go with their Feet bare, and their Hands and Eyes always lifted up to Heaven; They have not been known to ſleep ever ſince they came hither; they have been often forbidden by the Magiſtrates to Preach; But they anſwer'd, they were ſent on the behalf of God, to move the People to Repent and do Penance; whereupon they were cauſed to be put into Priſon, where ſeveral <hi>Jeſuits,</hi> and Learned Men went to viſit them, and Diſputed with them in the <hi>Latin, Greek, Hebrew, &amp; Chal<g ref="char:EOLhyphen"/>dean</hi> Languages. They certainly know thoſe that live a wicked life; and when any ſuch come be<g ref="char:EOLhyphen"/>fore them, they particularly exhor them to Re<g ref="char:EOLhyphen"/>pent, and amend their Lives. Their Food is no<g ref="char:EOLhyphen"/>thing but Bread and Water; they lift up their Hands and Eys continually towards Heaven, and are continually exhorting the People to Repent<g ref="char:EOLhyphen"/>ance; They preciſely nominate the day that our Saviour ſhall come to Judgement in: And when they were asked how long time ſhall yet paſs be<g ref="char:EOLhyphen"/>fore the general day of Judgment; They anſwer<g ref="char:EOLhyphen"/>ey, that the World ſhall have an end in the year <hi>One Thouſand Six Hundred and Ninety;</hi> But about two or three years before that time, all the Chriſtian World ſhould be troubled with Wars. They ſay they are much above a <hi>Thouſand Years</hi>
+               <pb n="4" facs="tcp:49950:4"/> of age; And being askt from whence they came, they anſwer'd, they came from <hi>Damaſcus</hi> a City in <hi>Galilea,</hi> and were ſent by God to Preach Repentance to the World. The <hi>Jeſuits</hi> have ob<g ref="char:EOLhyphen"/>tain'd of our Magiſtrates, that theſe Men ſhould be ſent to <hi>ROME</hi> to the <hi>POPE;</hi> But theſe (Apoſtles as they call themſelves,) anſwer'd, that they knew very well all that muſt happen unto them; And that it was altogether unneceſſary to force them, for they had a great deſire to go voluntarily to <hi>ROME:</hi> their Chains were made of ſtrong and heavy Iron; and when they were in the Streets, and their Chains very ſtrong<g ref="char:EOLhyphen"/>ly faſtned on their Legs, they brake them in Pie<g ref="char:EOLhyphen"/>ces before all the People, who were wonderfully aſtoniſht thereat, which cauſed them all to believe them to be very great Saints; they are now on their Journey for <hi>ROME. I ſhall ſhortly give you an account of their behaviour in their Journey. and of their behaviour and reception at</hi> Rome.</p>
+            <closer>
+               <dateline>Tholouze, <date>
+                     <hi>Aug:</hi> the 18th. 1680.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
